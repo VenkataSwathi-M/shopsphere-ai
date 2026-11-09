@@ -1,9 +1,10 @@
-## Step 4. Create docker-compose.yml
+**Important:** Save the file using `Command + S`. Make sure all `<<<<<<<`, `=======`, and `>>>>>>>` markers are gone.
 
-**File path:** `shopsphere-ai/docker-compose.yml`
+## Step 3: Mark the conflict as resolved
 
-For now, create the file with this content:
+Return to your terminal.
 
-```yaml
-# ShopSphere AI
-# Docker Compose configuration will be implemented in Phase 2.
+Run:
+
+```bash
+git add README.md
